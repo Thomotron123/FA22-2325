@@ -1,5 +1,3 @@
-#vi /opt/scripts/system-info.sh
-
 #!/bin/bash
 echo -e "-------------------------------System Information----------------------------"
 echo -e "Hostname:\t\t"`hostname`
